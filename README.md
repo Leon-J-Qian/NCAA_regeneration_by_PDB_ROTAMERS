@@ -158,8 +158,7 @@ in order to compare the performance between PDB ROTAMERS and Rotlib, we calculat
 
 ΔEnergy_score = Energy_score<sub>PDB_ROTAMERS</sub> - Energy_score<sub>Rotlib</sub>
 ΔRMSD = RMSD<sub>PDB_ROTAMERS</sub> - RMSD<sub>Rotlib</sub>
-ΔChi_deviation = 0.7×(Chi1_deviation<sub>PDB_ROTAMERS</sub> - Chi1_deviation<sub>Rotlib</sub>) +       
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;0.3×(Chi2_deviation<sub>PDB_ROTAMERS</sub> - Chi2_deviation<sub>Rotlib</sub>)
+ΔChi_deviation = 0.7×(Chi1_deviation<sub>PDB_ROTAMERS</sub> - Chi1_deviation<sub>Rotlib</sub>) + 0.3×(Chi2_deviation<sub>PDB_ROTAMERS</sub> - Chi2_deviation<sub>Rotlib</sub>)
 
 The more negative the value is, the better the performance of PDB ROTARERS
 The more positive the value is, the better the performance of Rotlib
