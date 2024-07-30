@@ -156,10 +156,10 @@ points out which output has the lowest Energy_score, and gives the exact value o
 #### comparison
 in order to compare the performance between PDB ROTAMERS and Rotlib, we calculated the delta values between them in each case using the following functions:
 
-ΔEnergy_score = Energy_score<sub>PDB_ROTAMERS</sub> - Energy_score~Rotlib~
-ΔRMSD = RMSD~PDB_ROTAMERS~ - RMSD~Rotlib~
-ΔChi_deviation = 0.7×(Chi1_deviation~PDB_ROTAMERS~ - Chi1_deviation~Rotlib~) +       
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;0.3×(Chi2_deviation~PDB_ROTAMERS~ - Chi2_deviation~Rotlib~)
+ΔEnergy_score = Energy_score<sub>PDB_ROTAMERS</sub> - Energy_score<sub>Rotlib</sub>
+ΔRMSD = RMSD<sub>PDB_ROTAMERS</sub> - RMSD<sub>Rotlib</sub>
+ΔChi_deviation = 0.7×(Chi1_deviation<sub>PDB_ROTAMERS</sub> - Chi1_deviation<sub>Rotlib</sub>) +       
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;0.3×(Chi2_deviation<sub>PDB_ROTAMERS</sub> - Chi2_deviation<sub>Rotlib</sub>)
 
 The more negative the value is, the better the performance of PDB ROTARERS
 The more positive the value is, the better the performance of Rotlib
