@@ -1,8 +1,8 @@
 
 
 ## Dependence
-This script is tested under Python 3.12.4.
-Also, Python 2.7.17 is required to run Rosetta related scripts.
+This script is tested under Python 3.12.4.<br>
+Also, Python 2.7.17 is required to run Rosetta related scripts.<br>
 Other software and libraries that need to be installed:
 - acpype
 - ambertools
@@ -26,11 +26,11 @@ In order to generate Rosetta and Gromacs parameters, you can refer to the follow
 cd ~/YOUR_NCAA_FOLDER
 python R_G_parameterize.py -i input.smiles -n UAA
 ```
-Required:
+Required:<br>
 -i: your NCAA's SMILES
 -n: your NCAA's three letter abbreviation
 
-Optional:
+Optional:<br>
 -c: whether or not delete intermediate files, accept 0 or 1 as its parameter. 0 stands for 'do not delete', 1 stands for 'delete'. Default delete
 ### Output
 Finally you will find your Rosetta parameter files, Rosetta temporary parameter files, and Gromacs parameter files in the current folder
@@ -49,17 +49,17 @@ In order to generate PDB ROTAMERS, you can refer to the following steps:
 cd ~/YOUR_NEW_FOLDER
 python PDB_rotamer.py -i input.smiles -n UAA -m UAA_temps.params
 ```
-Required:
+Required:<br>
 -n: your NCAA's three letter abbreviation
 -m: Your NCAA's corresponding temporary parameter file
 
-Optional:
+Optional:<br>
 -d: User defined RMSD threshold, accept any floating-point number as its parameter
 -c: User defined conformation number cut_off value, accept any integer as its parameter
 
-When -d and -c are not manually defined, they will be automatically classified based on the input number of chi angles in NCAA, basically according to the following table£º
+When -d and -c are not manually defined, they will be automatically classified based on the input number of chi angles in NCAA, basically according to the following table:
 
-||Chi=1|Chi=2|Chi=3|Chi=4|Chi¡Ý5|
+||Chi=1|Chi=2|Chi=3|Chi=4|Chi≥5|
 |-|-|-|-|-|-|
 |RMSD threshold|0.8|0.6|0.4|0.2|0.1|
 |Cut_off|10|30|90|270|810|
@@ -67,9 +67,9 @@ When -d and -c are not manually defined, they will be automatically classified b
 The above parameters are sufficient to handle most situations, a few special NCAA cases require users to manually set the RMSD threshold and cut_off value according to the actual situation
 
 ### Output
-The program takes around 5 to 10 minutes to perform calculations. After running, you will find a pdb file named '**merged_combined_pdb_files.pdb**' in the current folder, which is your NCAA's PDB ROTAMER. 
-Copy its path, and paste
-`PDB_ROTAMERS ~/YOUR_PDB_ROTAMERS_PATH/merged_combined_pdb_files.pdb`
+The program takes around 5 to 10 minutes to perform calculations. After running, you will find a pdb file named '**merged_combined_pdb_files.pdb**' in the current folder, which is your NCAA's PDB ROTAMER. <br>
+Copy its path, and paste<br>
+`PDB_ROTAMERS ~/YOUR_PDB_ROTAMERS_PATH/merged_combined_pdb_files.pdb`<br>
 on the last line of your UAA.params file to use it.
 ## Rotlib Generation
 ### Input
@@ -82,9 +82,9 @@ In order to generate Rotlib, you can refer to the following steps:
 cd ~/YOUR_ROTLIB_FOLDER
 python depart.py UAA n x1 x2 x3 x4
 ```
-UAA: the three letter abbreviation of your NCAA
-n: the number of chi angles
-x1, x2, x3, x4: list of rotawell values representing rotary wells
+UAA: the three letter abbreviation of your NCAA<br>
+n: the number of chi angles<br>
+x1, x2, x3, x4: list of rotawell values representing rotary wells<br>
 
 This script will generate a list file named '**MRL_job_UAA.list**', transfer it along with the **run.sh** file and **UAA.params** file to the supercomputer, and enter the following command:
 ```
@@ -116,9 +116,9 @@ In order to regenerate the NCAA, you can refer to the following steps:
 cd ~/YOUR_REGENERATION_FOLDER
 ~/YOUR_ROSETTA_PATH/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="x1" new_ncaa="UAA" -s ./x2.pdb -extra_res_fa ./UAA.params  @chi_packing_flag
 ```
-x1: the AA-index of your NCAA
-x2: the pdb name that contains your NCAA
-UAA: the three letter abbreviation of your NCAA
+x1: the AA-index of your NCAA<br>
+x2: the pdb name that contains your NCAA<br>
+UAA: the three letter abbreviation of your NCAA<br>
 
 For different cases, need to provide different numbers, pdb names, and NCAA three letter abbreviations. For easy access, the commands used in this experiment are stored in the **command.txt** file.
 ### Output
@@ -142,9 +142,9 @@ Putting the additional required files into your regeneration folder, and enter t
 cd ~/YOUR_REGENERATION_FOLDER
 python score_rmsd_chi.py -n UAA -i y1 -r UAA.pdb
 ```
--n: your NCAA's three letter abbreviation
--i: prefixes of 100 output pdbs. For example, if your output pdb file named '4ah7_opt_XXXX.pdb', then -i takes '4ah7' as its parameter
--r: Your NCAA's original conformation pdb
+-n: your NCAA's three letter abbreviation<br>
+-i: prefixes of 100 output pdbs. For example, if your output pdb file named '4ah7_opt_XXXX.pdb', then -i takes '4ah7' as its parameter<br>
+-r: Your NCAA's original conformation pdb<br>
 #### results
 The result files are
 - rmsd_results.csv
