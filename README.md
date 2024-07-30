@@ -27,8 +27,8 @@ cd ~/YOUR_NCAA_FOLDER
 python R_G_parameterize.py -i input.smiles -n UAA
 ```
 Required:<br>
--i: your NCAA's SMILES
--n: your NCAA's three letter abbreviation
+-i: your NCAA's SMILES<br>
+-n: your NCAA's three letter abbreviation<br>
 
 Optional:<br>
 -c: whether or not delete intermediate files, accept 0 or 1 as its parameter. 0 stands for 'do not delete', 1 stands for 'delete'. Default delete
@@ -50,12 +50,12 @@ cd ~/YOUR_NEW_FOLDER
 python PDB_rotamer.py -i input.smiles -n UAA -m UAA_temps.params
 ```
 Required:<br>
--n: your NCAA's three letter abbreviation
--m: Your NCAA's corresponding temporary parameter file
+-n: your NCAA's three letter abbreviation<br>
+-m: Your NCAA's corresponding temporary parameter file<br>
 
 Optional:<br>
--d: User defined RMSD threshold, accept any floating-point number as its parameter
--c: User defined conformation number cut_off value, accept any integer as its parameter
+-d: User defined RMSD threshold, accept any floating-point number as its parameter<br>
+-c: User defined conformation number cut_off value, accept any integer as its parameter<br>
 
 When -d and -c are not manually defined, they will be automatically classified based on the input number of chi angles in NCAA, basically according to the following table:
 
@@ -68,8 +68,8 @@ The above parameters are sufficient to handle most situations, a few special NCA
 
 ### Output
 The program takes around 5 to 10 minutes to perform calculations. After running, you will find a pdb file named '**merged_combined_pdb_files.pdb**' in the current folder, which is your NCAA's PDB ROTAMER. <br>
-Copy its path, and paste<br>
-`PDB_ROTAMERS ~/YOUR_PDB_ROTAMERS_PATH/merged_combined_pdb_files.pdb`<br>
+Copy its path, and paste
+`PDB_ROTAMERS ~/YOUR_PDB_ROTAMERS_PATH/merged_combined_pdb_files.pdb`
 on the last line of your UAA.params file to use it.
 ## Rotlib Generation
 ### Input
