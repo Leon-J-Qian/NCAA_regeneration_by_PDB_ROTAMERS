@@ -1,0 +1,36 @@
+CRYST1   52.614   78.915   91.063  90.00  90.00  90.00 I 2 2 2       8
+HETATM    1  N   BIF A  11      80.315 165.266 189.294  1.00 22.25      A    N  
+ANISOU    1  N   BIF A  11     2487   3093   2873     53    -90     -7  A    N  
+HETATM    2  CA  BIF A  11      79.148 164.979 190.117  1.00 22.72      A    C  
+ANISOU    2  CA  BIF A  11     2536   3120   2975     59   -118    -47  A    C  
+HETATM    3  C   BIF A  11      77.969 165.584 189.413  1.00 23.66      A    C  
+ANISOU    3  C   BIF A  11     2658   3292   3041     84   -169    -61  A    C  
+HETATM    4  O   BIF A  11      77.962 166.764 189.189  1.00 24.25      A    O  
+ANISOU    4  O   BIF A  11     2761   3372   3080    102   -199      7  A    O  
+HETATM    5  CB  BIF A  11      79.359 165.711 191.440  1.00 21.97      A    C  
+ANISOU    5  CB  BIF A  11     2458   2960   2931     58   -131      6  A    C  
+HETATM    6  CG  BIF A  11      78.207 165.509 192.334  1.00 22.34      A    C  
+ANISOU    6  CG  BIF A  11     2500   2974   3015     63   -143    -28  A    C  
+HETATM    7  CD1 BIF A  11      77.852 164.289 192.835  1.00 24.67      A    C  
+ANISOU    7  CD1 BIF A  11     2780   3241   3354     55   -105    -80  A    C  
+HETATM    8  CD2 BIF A  11      77.402 166.586 192.608  1.00 24.65      A    C  
+ANISOU    8  CD2 BIF A  11     2801   3260   3305     78   -185     -9  A    C  
+HETATM    9  CE1 BIF A  11      76.721 164.158 193.653  1.00 23.81      A    C  
+ANISOU    9  CE1 BIF A  11     2665   3100   3283     54    -97   -110  A    C  
+HETATM   10  CE2 BIF A  11      76.295 166.453 193.373  1.00 24.30      A    C  
+ANISOU   10  CE2 BIF A  11     2743   3191   3297     82   -186    -49  A    C  
+HETATM   11  CZ  BIF A  11      75.930 165.255 193.943  1.00 24.78      A    C  
+ANISOU   11  CZ  BIF A  11     2789   3225   3399     66   -137    -98  A    C  
+HETATM   12  C8  BIF A  11      72.662 166.098 195.766  1.00 32.11      A    C  
+ANISOU   12  C8  BIF A  11     3666   4102   4431     76   -126   -195  A    C  
+HETATM   13  C9  BIF A  11      72.394 165.008 196.579  1.00 30.94      A    C  
+ANISOU   13  C9  BIF A  11     3520   3910   4326     50    -42   -221  A    C  
+HETATM   14  C10 BIF A  11      73.307 163.998 196.513  1.00 33.47      A    C  
+ANISOU   14  C10 BIF A  11     3866   4211   4640     38     -3   -198  A    C  
+HETATM   15  C11 BIF A  11      74.439 164.129 195.682  1.00 31.18      A    C  
+ANISOU   15  C11 BIF A  11     3589   3955   4303     47    -47   -162  A    C  
+HETATM   16  C12 BIF A  11      74.685 165.191 194.833  1.00 26.64      A    C  
+ANISOU   16  C12 BIF A  11     3011   3429   3682     64   -118   -139  A    C  
+HETATM   17  C13 BIF A  11      73.770 166.174 194.889  1.00 27.19      A    C  
+ANISOU   17  C13 BIF A  11     3065   3509   3757     81   -158   -150  A    C  
+END

@@ -1,0 +1,6 @@
+source /home/rotations/.conda/envs/rdkit/dat/leap/cmd/leaprc.protein.ff19SB
+loadamberparams BIF.mod
+mol=loadmol2 RESP/BIF_1.mol2
+check mol
+saveamberparm mol BIF.prm BIF.crd
+quit

@@ -1,0 +1,6 @@
+The PDB with the lowest energy is 2nuc_opt_0001 with an energy of -9.674
+RMSD平均值: 0.835
+RMSD标准差: 0.000
+The RMSD of the lowest energy PDB (2nuc_opt_0001) is 0.835
+能量最低的PDB文件 (2nuc_opt_0001) 的CHI角偏差:
+Chi1偏差: 0.968, Chi2偏差: 5.824, Chi3偏差: 15.067, Chi4偏差: 184.771

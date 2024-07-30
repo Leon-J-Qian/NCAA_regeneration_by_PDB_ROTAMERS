@@ -1,0 +1,6 @@
+The PDB with the lowest energy is 1aex_opt_0001 with an energy of 10.97
+RMSD平均值: 0.321
+RMSD标准差: 0.000
+The RMSD of the lowest energy PDB (1aex_opt_0001) is 0.321
+能量最低的PDB文件 (1aex_opt_0001) 的CHI角偏差:
+Chi1偏差: 11.412, Chi2偏差: 3.446, Chi3偏差: 3.550

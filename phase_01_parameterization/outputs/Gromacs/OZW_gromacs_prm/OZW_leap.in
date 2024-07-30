@@ -1,0 +1,6 @@
+source /home/rotations/.conda/envs/rdkit/dat/leap/cmd/leaprc.protein.ff19SB
+loadamberparams OZW.mod
+mol=loadmol2 RESP/OZW_1.mol2
+check mol
+saveamberparm mol OZW.prm OZW.crd
+quit

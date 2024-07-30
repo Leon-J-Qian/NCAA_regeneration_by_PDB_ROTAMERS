@@ -1,0 +1,6 @@
+The PDB with the lowest energy is 5lky_opt_0025 with an energy of -247.664
+RMSD平均值: 3.033
+RMSD标准差: 0.001
+The RMSD of the lowest energy PDB (5lky_opt_0025) is 3.030
+能量最低的PDB文件 (5lky_opt_0025) 的CHI角偏差:
+Chi1偏差: 28.089, Chi2偏差: 25.805, Chi3偏差: 90.410, Chi4偏差: 172.879, Chi5偏差: 102.419

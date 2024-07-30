@@ -1,0 +1,42 @@
+<ROSETTASCRIPTS>               
+    <SCOREFXNS>
+        <ScoreFunction name="r15" weights="ref2015"/>
+    </SCOREFXNS>
+
+    <RESIDUE_SELECTORS>
+        <Index name="mutant" resnums="%%resnum%%"/>
+        <Neighborhood name="shell" selector="mutant" distance="6.0"/>
+        <Not name="notshell" selector="shell"/>
+    </RESIDUE_SELECTORS>
+
+    <TASKOPERATIONS>
+        <InitializeFromCommandline name="init"/>
+        <OperateOnResidueSubset name="prevent_repack" selector="notshell" >
+            <PreventRepackingRLT />
+        </OperateOnResidueSubset>
+
+        <OperateOnResidueSubset name="allow_repack" selector="shell" >
+            <RestrictToRepackingRLT />
+        </OperateOnResidueSubset>
+
+        <OperateOnResidueSubset name="extra_chi_repack" selector="shell" >
+            <ExtraRotamersGenericRLT ex1="1" ex2="1" ex1_sample_level="1" ex2_sample_level="1" />
+        </OperateOnResidueSubset>
+    </TASKOPERATIONS>
+
+    <MOVERS>
+        <MutateResidue name="mutate" residue_selector="mutant" new_res="%%new_ncaa%%"/> 
+        <FastRelax name="relax_shell" scorefxn="r15" task_operations="init,prevent_repack,allow_repack,extra_chi_repack">
+            <MoveMap name="move_shell" bb="0" chi="0">
+                <ResidueSelector selector="shell" chi="1" bb="0"/>
+            </MoveMap>
+        </FastRelax>
+    </MOVERS>
+
+    <PROTOCOLS>
+        <Add mover="mutate"/>
+        <Add mover="relax_shell"/>
+    </PROTOCOLS>
+
+    <OUTPUT scorefxn="r15"/>
+</ROSETTASCRIPTS>

@@ -1,0 +1,6 @@
+The PDB with the lowest energy is 3fca_opt_0001 with an energy of -470.432
+RMSD平均值: 2.182
+RMSD标准差: 0.000
+The RMSD of the lowest energy PDB (3fca_opt_0001) is 2.182
+能量最低的PDB文件 (3fca_opt_0001) 的CHI角偏差:
+Chi1偏差: 16.056, Chi2偏差: 0.748

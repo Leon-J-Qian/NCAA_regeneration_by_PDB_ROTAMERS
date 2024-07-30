@@ -1,0 +1,6 @@
+source /home/rotations/.conda/envs/rdkit/dat/leap/cmd/leaprc.protein.ff19SB
+loadamberparams EFC.mod
+mol=loadmol2 RESP/EFC_1.mol2
+check mol
+saveamberparm mol EFC.prm EFC.crd
+quit

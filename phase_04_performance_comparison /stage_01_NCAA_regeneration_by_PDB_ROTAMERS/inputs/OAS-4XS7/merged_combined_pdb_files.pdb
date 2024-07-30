@@ -1,0 +1,540 @@
+MODEL     1
+HETATM    1  N   OAS     1      -0.040   1.067   0.239  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.076   0.059  -0.825  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.500  -0.196  -1.245  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.796  -0.179  -2.470  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.585  -1.243  -0.355  1.00  0.00           C
+HETATM    6  OG  OAS     1       0.615  -2.186  -1.423  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.154  -3.467  -1.282  1.00  0.00           C
+HETATM    8  CE2 OAS     1       1.163  -4.394  -2.450  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.669  -3.834  -0.191  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.626  -1.027  -0.029  1.00  0.00           H
+HETATM   11 1HB  OAS     1       0.024  -1.671   0.506  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       0.362  -4.110  -3.166  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       2.146  -4.335  -2.962  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       0.986  -5.436  -2.112  1.00  0.00           H
+HETATM   15  H   OAS     1       0.206   0.781   1.215  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.506   0.437  -1.695  1.00  0.00           H
+ENDMDL
+MODEL     2
+HETATM    1  N   OAS     1      -0.042   1.067   0.239  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.079   0.065  -0.831  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.502  -0.195  -1.245  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.799  -0.197  -2.472  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.583  -1.245  -0.375  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.938  -1.022   0.013  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.976  -0.807  -0.901  1.00  0.00           C
+HETATM    8  CE2 OAS     1       4.352  -0.538  -0.397  1.00  0.00           C
+HETATM    9  OE1 OAS     1       2.771  -0.889  -2.143  1.00  0.00           O
+HETATM   10 2HB  OAS     1       0.542  -2.004  -1.187  1.00  0.00           H
+HETATM   11 1HB  OAS     1       0.034  -1.656   0.499  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       4.922  -1.488  -0.351  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       4.302  -0.092   0.619  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       4.875   0.172  -1.074  1.00  0.00           H
+HETATM   15  H   OAS     1       0.187   0.772   1.217  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.490   0.454  -1.705  1.00  0.00           H
+ENDMDL
+MODEL     3
+HETATM    1  N   OAS     1      -0.600   1.093  -0.157  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.542   0.811  -1.594  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.580  -0.218  -1.964  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.562  -1.353  -1.411  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.862   0.326  -1.976  1.00  0.00           C
+HETATM    6  OG  OAS     1       0.935   0.107  -3.381  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.096  -0.342  -4.015  1.00  0.00           C
+HETATM    8  CE2 OAS     1       2.086  -0.573  -5.488  1.00  0.00           C
+HETATM    9  OE1 OAS     1       3.137  -0.595  -3.350  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.099  -0.617  -1.435  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.609   1.097  -1.687  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       1.863  -1.641  -5.693  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       1.308   0.059  -5.965  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       3.075  -0.315  -5.922  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.887   0.335   0.504  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.753   1.746  -2.157  1.00  0.00           H
+ENDMDL
+MODEL     4
+HETATM    1  N   OAS     1      -0.439   1.041  -0.174  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.691   0.885  -1.609  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.702  -0.212  -1.837  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.418  -1.399  -1.519  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.622   0.579  -2.340  1.00  0.00           C
+HETATM    6  OG  OAS     1       0.383   0.466  -3.740  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.398   0.176  -4.656  1.00  0.00           C
+HETATM    8  CE2 OAS     1       1.064   0.037  -6.103  1.00  0.00           C
+HETATM    9  OE1 OAS     1       2.583  -0.014  -4.268  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.346   1.404  -2.159  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.062  -0.368  -1.954  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       1.893   0.433  -6.726  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       0.904  -1.035  -6.344  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       0.138   0.604  -6.333  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.519   0.208   0.455  1.00  0.00           H
+HETATM   16  HA  OAS     1      -1.101   1.837  -2.013  1.00  0.00           H
+ENDMDL
+MODEL     5
+HETATM    1  N   OAS     1      -0.037   1.067   0.239  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.078   0.058  -0.825  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.502  -0.191  -1.245  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.795  -0.183  -2.472  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.578  -1.250  -0.350  1.00  0.00           C
+HETATM    6  OG  OAS     1       0.558  -2.238  -1.381  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.412  -2.216  -2.488  1.00  0.00           C
+HETATM    8  CE2 OAS     1       1.253  -3.242  -3.558  1.00  0.00           C
+HETATM    9  OE1 OAS     1       2.292  -1.320  -2.608  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.627  -1.060  -0.029  1.00  0.00           H
+HETATM   11 1HB  OAS     1       0.027  -1.648   0.528  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       0.632  -2.825  -4.378  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       0.755  -4.145  -3.146  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       2.247  -3.532  -3.959  1.00  0.00           H
+HETATM   15  H   OAS     1       0.215   0.782   1.214  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.504   0.440  -1.694  1.00  0.00           H
+ENDMDL
+MODEL     6
+HETATM    1  N   OAS     1      -0.572   0.987   0.176  1.00  0.00           N
+HETATM    2  CA  OAS     1       0.026   0.110  -0.837  1.00  0.00           C
+HETATM    3  C   OAS     1      -0.941  -0.105  -1.971  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.160  -0.320  -1.721  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.415  -1.244  -0.224  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.337  -1.068   0.852  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.687  -0.753   0.665  1.00  0.00           C
+HETATM    8  CE2 OAS     1       3.562  -0.544   1.854  1.00  0.00           C
+HETATM    9  OE1 OAS     1       3.184  -0.693  -0.492  1.00  0.00           O
+HETATM   10 2HB  OAS     1       0.860  -1.909  -0.997  1.00  0.00           H
+HETATM   11 1HB  OAS     1      -0.492  -1.748   0.172  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.951  -0.217   2.721  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       4.321   0.237   1.636  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       4.075  -1.495   2.108  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.898   0.581   1.084  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.948   0.593  -1.228  1.00  0.00           H
+ENDMDL
+MODEL     7
+HETATM    1  N   OAS     1      -0.592   1.088  -0.170  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.601   0.849  -1.619  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.579  -0.244  -1.974  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.527  -1.353  -1.373  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.808   0.495  -2.112  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.311  -0.639  -1.409  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.577  -1.175  -1.652  1.00  0.00           C
+HETATM    8  CE2 OAS     1       3.024  -2.375  -0.888  1.00  0.00           C
+HETATM    9  OE1 OAS     1       3.327  -0.683  -2.538  1.00  0.00           O
+HETATM   10 2HB  OAS     1       0.778   0.277  -3.203  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.485   1.361  -1.949  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.821  -3.289  -1.483  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       2.476  -2.438   0.075  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       4.112  -2.309  -0.677  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.909   0.333   0.481  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.923   1.782  -2.132  1.00  0.00           H
+ENDMDL
+MODEL     8
+HETATM    1  N   OAS     1      -0.773   1.167  -0.186  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.417   0.735  -1.542  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.407  -0.281  -2.058  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.733  -1.264  -1.337  1.00  0.00           O
+HETATM    5  CB  OAS     1       1.005   0.163  -1.563  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.116  -0.927  -0.651  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.303  -1.640  -0.470  1.00  0.00           C
+HETATM    8  CE2 OAS     1       2.331  -2.783   0.488  1.00  0.00           C
+HETATM    9  OE1 OAS     1       3.335  -1.356  -1.138  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.254  -0.180  -2.591  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.728   0.959  -1.277  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       1.683  -2.558   1.360  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       1.958  -3.697  -0.018  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       3.368  -2.960   0.846  1.00  0.00           H
+HETATM   15  H   OAS     1      -1.286   0.512   0.448  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.445   1.618  -2.218  1.00  0.00           H
+ENDMDL
+MODEL     9
+HETATM    1  N   OAS     1      -0.840   1.177  -0.156  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.184   0.505  -1.282  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.193  -0.289  -2.070  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.002  -1.048  -1.467  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.928  -0.420  -0.767  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.894   0.317  -0.019  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.847   1.157  -0.605  1.00  0.00           C
+HETATM    8  CE2 OAS     1       3.770   1.938   0.265  1.00  0.00           C
+HETATM    9  OE1 OAS     1       2.963   1.225  -1.860  1.00  0.00           O
+HETATM   10 2HB  OAS     1       0.488  -1.193  -0.101  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.423  -0.944  -1.613  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       4.008   2.914  -0.210  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       4.708   1.366   0.417  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       3.292   2.127   1.249  1.00  0.00           H
+HETATM   15  H   OAS     1      -1.426   0.605   0.495  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.269   1.259  -1.962  1.00  0.00           H
+ENDMDL
+MODEL     10
+HETATM    1  N   OAS     1      -0.446   1.156   0.113  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.216   0.410  -1.129  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.283  -0.640  -1.305  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.020  -0.600  -2.329  1.00  0.00           O
+HETATM    5  CB  OAS     1       1.181  -0.228  -1.111  1.00  0.00           C
+HETATM    6  OG  OAS     1       2.194   0.771  -0.997  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.581   1.600  -2.055  1.00  0.00           C
+HETATM    8  CE2 OAS     1       3.602   2.660  -1.818  1.00  0.00           C
+HETATM    9  OE1 OAS     1       2.112   1.432  -3.214  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.272  -0.911  -0.240  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.346  -0.832  -2.032  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       4.609   2.265  -2.065  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       3.388   3.544  -2.455  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       3.582   2.972  -0.753  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.586   0.623   1.001  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.273   1.099  -2.000  1.00  0.00           H
+ENDMDL
+MODEL     11
+HETATM    1  N   OAS     1      -0.744   1.152  -0.176  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.428   0.742  -1.549  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.438  -0.261  -2.046  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.707  -1.279  -1.349  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.989   0.153  -1.606  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.318  -0.266  -2.930  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.615   0.623  -3.968  1.00  0.00           C
+HETATM    8  CE2 OAS     1       1.879   0.092  -5.335  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.708   1.863  -3.751  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.733   0.899  -1.250  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.050  -0.727  -0.930  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.970  -0.060  -5.468  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       1.357  -0.878  -5.470  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       1.511   0.807  -6.100  1.00  0.00           H
+HETATM   15  H   OAS     1      -1.194   0.467   0.474  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.473   1.637  -2.206  1.00  0.00           H
+ENDMDL
+MODEL     12
+HETATM    1  N   OAS     1      -0.565   0.985   0.180  1.00  0.00           N
+HETATM    2  CA  OAS     1       0.026   0.106  -0.833  1.00  0.00           C
+HETATM    3  C   OAS     1      -0.942  -0.095  -1.971  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.158  -0.318  -1.724  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.405  -1.246  -0.217  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.062  -2.056  -1.189  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.513  -3.349  -0.913  1.00  0.00           C
+HETATM    8  CE2 OAS     1       2.203  -4.129  -1.979  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.379  -3.846   0.238  1.00  0.00           O
+HETATM   10 2HB  OAS     1      -0.507  -1.767   0.151  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.091  -1.078   0.642  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       1.902  -3.753  -2.979  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       3.302  -4.021  -1.865  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       1.930  -5.203  -1.903  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.875   0.583   1.096  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.959   0.579  -1.213  1.00  0.00           H
+ENDMDL
+MODEL     13
+HETATM    1  N   OAS     1      -0.627   1.100  -0.169  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.562   0.828  -1.610  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.553  -0.244  -1.989  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.562  -1.340  -1.365  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.863   0.405  -2.001  1.00  0.00           C
+HETATM    6  OG  OAS     1       0.948   0.114  -3.395  1.00  0.00           O
+HETATM    7  CD  OAS     1       0.937   1.097  -4.390  1.00  0.00           C
+HETATM    8  CE2 OAS     1       0.972   0.693  -5.825  1.00  0.00           C
+HETATM    9  OE1 OAS     1       0.939   2.322  -4.089  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.592   1.203  -1.738  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.146  -0.506  -1.432  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       0.694  -0.378  -5.925  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       1.995   0.844  -6.228  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       0.252   1.306  -6.408  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.971   0.360   0.484  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.826   1.759  -2.157  1.00  0.00           H
+ENDMDL
+MODEL     14
+HETATM    1  N   OAS     1      -0.588   1.099  -0.096  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.379   0.679  -1.485  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.558  -0.138  -1.941  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.688  -1.333  -1.547  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.928  -0.124  -1.597  1.00  0.00           C
+HETATM    6  OG  OAS     1       2.046   0.673  -1.205  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.621   1.652  -2.023  1.00  0.00           C
+HETATM    8  CE2 OAS     1       3.713   2.510  -1.480  1.00  0.00           C
+HETATM    9  OE1 OAS     1       2.205   1.841  -3.200  1.00  0.00           O
+HETATM   10 2HB  OAS     1       0.882  -1.007  -0.924  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.071  -0.496  -2.637  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       3.274   3.431  -1.044  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       4.268   1.960  -0.691  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       4.420   2.791  -2.290  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.892   0.382   0.601  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.300   1.569  -2.146  1.00  0.00           H
+ENDMDL
+MODEL     15
+HETATM    1  N   OAS     1      -0.553   1.202   0.049  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.368   0.572  -1.262  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.176  -0.699  -1.354  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.060  -0.804  -2.248  1.00  0.00           O
+HETATM    5  CB  OAS     1       1.124   0.295  -1.513  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.323  -0.358  -2.766  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.218   0.294  -4.000  1.00  0.00           C
+HETATM    8  CE2 OAS     1       1.396  -0.485  -5.258  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.024   1.538  -4.059  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.705   1.244  -1.489  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.526  -0.356  -0.708  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.454  -0.416  -5.590  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       1.138  -1.551  -5.083  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       0.735  -0.082  -6.054  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.911   0.635   0.852  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.738   1.271  -2.045  1.00  0.00           H
+ENDMDL
+MODEL     16
+HETATM    1  N   OAS     1      -0.568   0.984   0.178  1.00  0.00           N
+HETATM    2  CA  OAS     1       0.026   0.110  -0.839  1.00  0.00           C
+HETATM    3  C   OAS     1      -0.946  -0.088  -1.973  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.158  -0.335  -1.722  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.423  -1.241  -0.219  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.178  -2.025  -1.143  1.00  0.00           O
+HETATM    7  CD  OAS     1       0.606  -2.921  -2.054  1.00  0.00           C
+HETATM    8  CE2 OAS     1       1.477  -3.613  -3.046  1.00  0.00           C
+HETATM    9  OE1 OAS     1      -0.627  -3.183  -2.018  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.067  -1.045   0.665  1.00  0.00           H
+HETATM   11 1HB  OAS     1      -0.471  -1.797   0.141  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       1.741  -4.622  -2.666  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       2.407  -3.029  -3.206  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       0.944  -3.712  -4.014  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.891   0.577   1.086  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.954   0.590  -1.220  1.00  0.00           H
+ENDMDL
+MODEL     17
+HETATM    1  N   OAS     1      -0.420   1.071  -0.042  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.413   0.675  -1.454  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.667  -0.106  -1.752  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.644  -1.366  -1.797  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.868  -0.119  -1.753  1.00  0.00           C
+HETATM    6  OG  OAS     1       0.919  -0.471  -3.134  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.918  -1.298  -3.658  1.00  0.00           C
+HETATM    8  CE2 OAS     1       1.933  -1.603  -5.115  1.00  0.00           C
+HETATM    9  OE1 OAS     1       2.794  -1.809  -2.905  1.00  0.00           O
+HETATM   10 2HB  OAS     1       0.897  -1.035  -1.120  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.752   0.506  -1.503  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.903  -1.291  -5.556  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       1.115  -1.056  -5.630  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       1.788  -2.693  -5.272  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.554   0.328   0.680  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.416   1.575  -2.106  1.00  0.00           H
+ENDMDL
+MODEL     18
+HETATM    1  N   OAS     1      -0.791   1.153  -0.125  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.187   0.507  -1.294  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.249  -0.232  -2.068  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.966  -1.088  -1.481  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.924  -0.461  -0.861  1.00  0.00           C
+HETATM    6  OG  OAS     1       2.002   0.249  -0.251  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.063   0.541   1.117  1.00  0.00           C
+HETATM    8  CE2 OAS     1       3.153   1.419   1.630  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.189   0.104   1.913  1.00  0.00           O
+HETATM   10 2HB  OAS     1       0.530  -1.245  -0.177  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.322  -0.974  -1.762  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       4.013   1.407   0.928  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       3.496   1.060   2.623  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       2.776   2.458   1.725  1.00  0.00           H
+HETATM   15  H   OAS     1      -1.343   0.565   0.540  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.268   1.270  -1.961  1.00  0.00           H
+ENDMDL
+MODEL     19
+HETATM    1  N   OAS     1      -0.004   1.063   0.240  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.103   0.080  -0.844  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.536  -0.106  -1.272  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.790  -0.326  -2.487  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.533  -1.260  -0.431  1.00  0.00           C
+HETATM    6  OG  OAS     1      -0.121  -1.824   0.707  1.00  0.00           O
+HETATM    7  CD  OAS     1      -1.166  -2.752   0.623  1.00  0.00           C
+HETATM    8  CE2 OAS     1      -1.861  -3.186   1.867  1.00  0.00           C
+HETATM    9  OE1 OAS     1      -1.557  -3.189  -0.493  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.596  -1.075  -0.163  1.00  0.00           H
+HETATM   11 1HB  OAS     1       0.534  -1.972  -1.285  1.00  0.00           H
+HETATM   12 1HE2 OAS     1      -1.185  -3.069   2.740  1.00  0.00           H
+HETATM   13 3HE2 OAS     1      -2.766  -2.561   2.021  1.00  0.00           H
+HETATM   14 2HE2 OAS     1      -2.162  -4.252   1.786  1.00  0.00           H
+HETATM   15  H   OAS     1       0.271   0.752   1.200  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.480   0.460  -1.713  1.00  0.00           H
+ENDMDL
+MODEL     20
+HETATM    1  N   OAS     1      -0.562   0.988   0.189  1.00  0.00           N
+HETATM    2  CA  OAS     1       0.039   0.075  -0.789  1.00  0.00           C
+HETATM    3  C   OAS     1      -0.911  -0.191  -1.928  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.157  -0.139  -1.736  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.474  -1.240  -0.116  1.00  0.00           C
+HETATM    6  OG  OAS     1      -0.632  -1.911   0.491  1.00  0.00           O
+HETATM    7  CD  OAS     1      -1.424  -2.859  -0.168  1.00  0.00           C
+HETATM    8  CE2 OAS     1      -2.596  -3.451   0.538  1.00  0.00           C
+HETATM    9  OE1 OAS     1      -1.131  -3.254  -1.329  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.211  -0.998   0.679  1.00  0.00           H
+HETATM   11 1HB  OAS     1       0.991  -1.903  -0.845  1.00  0.00           H
+HETATM   12 1HE2 OAS     1      -3.419  -3.638  -0.182  1.00  0.00           H
+HETATM   13 3HE2 OAS     1      -2.297  -4.409   1.012  1.00  0.00           H
+HETATM   14 2HE2 OAS     1      -2.957  -2.753   1.321  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.834   0.633   1.134  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.957   0.553  -1.198  1.00  0.00           H
+ENDMDL
+MODEL     21
+HETATM    1  N   OAS     1      -0.036   1.067   0.239  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.077   0.059  -0.826  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.504  -0.188  -1.246  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.795  -0.189  -2.472  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.576  -1.249  -0.354  1.00  0.00           C
+HETATM    6  OG  OAS     1       0.590  -2.218  -1.403  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.558  -2.288  -2.415  1.00  0.00           C
+HETATM    8  CE2 OAS     1       2.813  -1.467  -2.383  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.379  -3.093  -3.367  1.00  0.00           O
+HETATM   10 2HB  OAS     1      -0.004  -1.666   0.498  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.605  -1.059   0.018  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.568  -0.386  -2.374  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       3.403  -1.721  -1.478  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       3.436  -1.676  -3.278  1.00  0.00           H
+HETATM   15  H   OAS     1       0.205   0.779   1.215  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.498   0.443  -1.696  1.00  0.00           H
+ENDMDL
+MODEL     22
+HETATM    1  N   OAS     1      -0.537   1.197   0.057  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.354   0.558  -1.251  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.194  -0.693  -1.344  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.053  -0.790  -2.263  1.00  0.00           O
+HETATM    5  CB  OAS     1       1.135   0.257  -1.493  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.354  -0.178  -2.835  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.326  -1.519  -3.235  1.00  0.00           C
+HETATM    8  CE2 OAS     1       1.480  -1.856  -4.679  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.227  -2.446  -2.387  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.716   1.191  -1.345  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.525  -0.485  -0.761  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.546  -2.072  -4.896  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       0.865  -2.745  -4.931  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       1.146  -1.001  -5.304  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.870   0.630   0.870  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.698   1.262  -2.042  1.00  0.00           H
+ENDMDL
+MODEL     23
+HETATM    1  N   OAS     1      -0.568   0.986   0.178  1.00  0.00           N
+HETATM    2  CA  OAS     1       0.024   0.111  -0.840  1.00  0.00           C
+HETATM    3  C   OAS     1      -0.945  -0.093  -1.973  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.158  -0.333  -1.723  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.407  -1.245  -0.234  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.371  -1.055   0.797  1.00  0.00           O
+HETATM    7  CD  OAS     1       1.908  -2.116   1.532  1.00  0.00           C
+HETATM    8  CE2 OAS     1       2.896  -1.835   2.613  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.534  -3.301   1.320  1.00  0.00           O
+HETATM   10 2HB  OAS     1      -0.495  -1.743   0.186  1.00  0.00           H
+HETATM   11 1HB  OAS     1       0.841  -1.896  -1.026  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.372  -1.786   3.590  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       3.402  -0.866   2.421  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       3.662  -2.640   2.646  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.888   0.580   1.087  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.954   0.585  -1.223  1.00  0.00           H
+ENDMDL
+MODEL     24
+HETATM    1  N   OAS     1       0.424   0.943  -0.479  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.677   0.039  -0.111  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.472  -0.401  -1.315  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.411   0.249  -2.396  1.00  0.00           O
+HETATM    5  CB  OAS     1      -1.585   0.658   0.962  1.00  0.00           C
+HETATM    6  OG  OAS     1      -0.796   1.126   2.052  1.00  0.00           O
+HETATM    7  CD  OAS     1      -1.351   1.748   3.173  1.00  0.00           C
+HETATM    8  CE2 OAS     1      -0.460   2.203   4.278  1.00  0.00           C
+HETATM    9  OE1 OAS     1      -2.600   1.891   3.279  1.00  0.00           O
+HETATM   10 2HB  OAS     1      -2.180   1.495   0.542  1.00  0.00           H
+HETATM   11 1HB  OAS     1      -2.294  -0.114   1.334  1.00  0.00           H
+HETATM   12 1HE2 OAS     1      -0.848   3.147   4.717  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       0.564   2.382   3.889  1.00  0.00           H
+HETATM   14 2HE2 OAS     1      -0.419   1.422   5.065  1.00  0.00           H
+HETATM   15  H   OAS     1       1.399   0.585  -0.357  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.226  -0.877   0.332  1.00  0.00           H
+ENDMDL
+MODEL     25
+HETATM    1  N   OAS     1      -0.012   1.066   0.240  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.093   0.067  -0.832  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.524  -0.141  -1.258  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.790  -0.260  -2.485  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.536  -1.262  -0.393  1.00  0.00           C
+HETATM    6  OG  OAS     1      -0.159  -1.801   0.729  1.00  0.00           O
+HETATM    7  CD  OAS     1       0.201  -3.009   1.332  1.00  0.00           C
+HETATM    8  CE2 OAS     1      -0.594  -3.520   2.484  1.00  0.00           C
+HETATM    9  OE1 OAS     1       1.164  -3.690   0.886  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.602  -1.093  -0.122  1.00  0.00           H
+HETATM   11 1HB  OAS     1       0.502  -1.986  -1.237  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       0.076  -4.004   3.226  1.00  0.00           H
+HETATM   13 3HE2 OAS     1      -1.128  -2.680   2.979  1.00  0.00           H
+HETATM   14 2HE2 OAS     1      -1.337  -4.260   2.122  1.00  0.00           H
+HETATM   15  H   OAS     1       0.275   0.774   1.202  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.494   0.437  -1.702  1.00  0.00           H
+ENDMDL
+MODEL     26
+HETATM    1  N   OAS     1      -0.559   0.986   0.189  1.00  0.00           N
+HETATM    2  CA  OAS     1       0.031   0.087  -0.809  1.00  0.00           C
+HETATM    3  C   OAS     1      -0.923  -0.132  -1.955  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.160  -0.232  -1.730  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.419  -1.256  -0.175  1.00  0.00           C
+HETATM    6  OG  OAS     1      -0.735  -1.918   0.340  1.00  0.00           O
+HETATM    7  CD  OAS     1      -0.670  -3.164   0.968  1.00  0.00           C
+HETATM    8  CE2 OAS     1      -1.919  -3.783   1.497  1.00  0.00           C
+HETATM    9  OE1 OAS     1       0.434  -3.749   1.129  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.143  -1.076   0.649  1.00  0.00           H
+HETATM   11 1HB  OAS     1       0.910  -1.900  -0.939  1.00  0.00           H
+HETATM   12 1HE2 OAS     1      -2.017  -3.554   2.578  1.00  0.00           H
+HETATM   13 3HE2 OAS     1      -1.887  -4.885   1.357  1.00  0.00           H
+HETATM   14 2HE2 OAS     1      -2.801  -3.380   0.957  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.831   0.614   1.127  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.965   0.554  -1.195  1.00  0.00           H
+ENDMDL
+MODEL     27
+HETATM    1  N   OAS     1      -0.483   1.168   0.095  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.243   0.446  -1.159  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.253  -0.662  -1.318  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.037  -0.644  -2.306  1.00  0.00           O
+HETATM    5  CB  OAS     1       1.185  -0.105  -1.188  1.00  0.00           C
+HETATM    6  OG  OAS     1       2.116   0.972  -1.175  1.00  0.00           O
+HETATM    7  CD  OAS     1       3.499   0.776  -1.184  1.00  0.00           C
+HETATM    8  CE2 OAS     1       4.408   1.957  -1.180  1.00  0.00           C
+HETATM    9  OE1 OAS     1       3.985  -0.387  -1.235  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.333  -0.705  -2.114  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.364  -0.757  -0.306  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       5.309   1.743  -0.567  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       3.884   2.837  -0.752  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       4.718   2.189  -2.220  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.649   0.620   0.969  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.360   1.141  -2.022  1.00  0.00           H
+ENDMDL
+MODEL     28
+HETATM    1  N   OAS     1      -0.765   1.157  -0.146  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.284   0.612  -1.419  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.362  -0.225  -2.058  1.00  0.00           C
+HETATM    4  O   OAS     1      -1.843  -1.208  -1.429  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.977  -0.227  -1.187  1.00  0.00           C
+HETATM    6  OG  OAS     1       2.014   0.599  -0.664  1.00  0.00           O
+HETATM    7  CD  OAS     1       3.280   0.105  -0.340  1.00  0.00           C
+HETATM    8  CE2 OAS     1       4.316   1.035   0.193  1.00  0.00           C
+HETATM    9  OE1 OAS     1       3.567  -1.108  -0.530  1.00  0.00           O
+HETATM   10 2HB  OAS     1       0.760  -1.049  -0.470  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.312  -0.668  -2.151  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       4.932   0.520   0.959  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       3.829   1.919   0.657  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       4.969   1.375  -0.638  1.00  0.00           H
+HETATM   15  H   OAS     1      -1.244   0.514   0.525  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.024   1.442  -2.112  1.00  0.00           H
+ENDMDL
+MODEL     29
+HETATM    1  N   OAS     1      -0.553   1.201   0.050  1.00  0.00           N
+HETATM    2  CA  OAS     1      -0.359   0.564  -1.257  1.00  0.00           C
+HETATM    3  C   OAS     1      -1.178  -0.699  -1.353  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.060  -0.795  -2.250  1.00  0.00           O
+HETATM    5  CB  OAS     1       1.129   0.275  -1.491  1.00  0.00           C
+HETATM    6  OG  OAS     1       1.312  -0.328  -2.771  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.567  -0.713  -3.251  1.00  0.00           C
+HETATM    8  CE2 OAS     1       2.679  -1.324  -4.605  1.00  0.00           C
+HETATM    9  OE1 OAS     1       3.607  -0.510  -2.567  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.703   1.226  -1.453  1.00  0.00           H
+HETATM   11 1HB  OAS     1       1.520  -0.401  -0.700  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       3.468  -2.106  -4.606  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       2.941  -0.539  -5.345  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       1.713  -1.789  -4.893  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.905   0.634   0.855  1.00  0.00           H
+HETATM   16  HA  OAS     1      -0.708   1.263  -2.051  1.00  0.00           H
+ENDMDL
+MODEL     30
+HETATM    1  N   OAS     1      -0.565   0.985   0.181  1.00  0.00           N
+HETATM    2  CA  OAS     1       0.027   0.103  -0.830  1.00  0.00           C
+HETATM    3  C   OAS     1      -0.938  -0.100  -1.968  1.00  0.00           C
+HETATM    4  O   OAS     1      -2.159  -0.306  -1.725  1.00  0.00           O
+HETATM    5  CB  OAS     1       0.403  -1.252  -0.207  1.00  0.00           C
+HETATM    6  OG  OAS     1       0.984  -2.122  -1.179  1.00  0.00           O
+HETATM    7  CD  OAS     1       2.285  -1.972  -1.667  1.00  0.00           C
+HETATM    8  CE2 OAS     1       2.760  -2.857  -2.769  1.00  0.00           C
+HETATM    9  OE1 OAS     1       3.047  -1.073  -1.217  1.00  0.00           O
+HETATM   10 2HB  OAS     1       1.110  -1.103   0.639  1.00  0.00           H
+HETATM   11 1HB  OAS     1      -0.510  -1.739   0.200  1.00  0.00           H
+HETATM   12 1HE2 OAS     1       2.578  -2.361  -3.745  1.00  0.00           H
+HETATM   13 3HE2 OAS     1       3.847  -3.059  -2.657  1.00  0.00           H
+HETATM   14 2HE2 OAS     1       2.212  -3.822  -2.742  1.00  0.00           H
+HETATM   15  H   OAS     1      -0.864   0.589   1.103  1.00  0.00           H
+HETATM   16  HA  OAS     1       0.956   0.580  -1.209  1.00  0.00           H
+ENDMDL

@@ -1,0 +1,56 @@
+#SCS
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="17" new_ncaa="SCS" -s ./2nuc.pdb -extra_res_fa ./SCS.params  @chi_packing_flag
+
+#SCH
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="17" new_ncaa="SCH" -s ./1aex.pdb -extra_res_fa ./SCH.params  @chi_packing_flag
+
+#TPO
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="162" new_ncaa="TPO" -s ./4bn1.pdb -extra_res_fa ./TPO.params  @chi_packing_flag
+
+#PF5
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="257" new_ncaa="PF5" -s ./4rv3.pdb -extra_res_fa ./PF5.params  @chi_packing_flag
+
+#P9S
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="188" new_ncaa="P9S" -s ./5lky.pdb -extra_res_fa ./P9S.params ./KPI.params @chi_packing_flag
+
+#OAS
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="110" new_ncaa="OAS" -s ./4xs7.pdb -extra_res_fa ./OAS.params  @chi_packing_flag
+
+#M3L  xml文件有修改，将index改为<Index name="mutant" resnums="9P"/>
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="9P" new_ncaa="M3L" -s ./6at0.pdb -extra_res_fa ./M3L.params  @chi_packing_flag
+
+#KPI
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="163" new_ncaa="KPI" -s ./4ah7.pdb -extra_res_fa ./KPI.params  @chi_packing_flag
+
+#HQA
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="22" new_ncaa="HQA" -s ./3fca.pdb -extra_res_fa ./HQA.params  @chi_packing_flag
+
+#EFC
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="17" new_ncaa="EFC" -s ./1a3t.pdb -extra_res_fa ./EFC.params  @chi_packing_flag
+
+#DV7
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="93" new_ncaa="DV7" -s ./6udb.pdb -extra_res_fa ./DV7.params  @chi_packing_flag
+
+#CME
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="17" new_ncaa="CME" -s ./1a2t.pdb -extra_res_fa ./CME.params  @chi_packing_flag
+
+#C6C
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="17" new_ncaa="C6C" -s ./1a3u.pdb -extra_res_fa ./C6C.params  @chi_packing_flag
+
+#BUC
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="17" new_ncaa="BUC" -s ./1a2u.pdb -extra_res_fa ./BUC.params  @chi_packing_flag
+
+#BP5
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="132" new_ncaa="BP5" -s ./4iww.pdb -extra_res_fa ./BP5.params  @chi_packing_flag
+
+#BIF
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="11" new_ncaa="BIF" -s ./4s0i.pdb -extra_res_fa ./BIF.params  @chi_packing_flag
+
+#AZH
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="35" new_ncaa="AZH" -s ./5mz7.pdb -extra_res_fa ./AZH.params  @chi_packing_flag
+
+#4AF
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="131" new_ncaa="4AF" -s ./3hwl.pdb -extra_res_fa ./4AF.params  @chi_packing_flag
+
+#0WZ
+/home/fzwang/rosetta_bin_linux_2020.25.61318_bundle/main/source/bin/rosetta_scripts.static.linuxgccrelease -parser:protocol ./chi_packing.xml -parser:script_vars resnum="150" new_ncaa="0WZ" -s ./4ges.pdb -extra_res_fa ./0WZ.params  @chi_packing_flag

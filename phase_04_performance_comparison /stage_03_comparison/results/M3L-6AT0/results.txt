@@ -1,0 +1,6 @@
+The PDB with the lowest energy is 6at0_opt_0001 with an energy of -84.653
+RMSD平均值: 2.868
+RMSD标准差: 0.000
+The RMSD of the lowest energy PDB (6at0_opt_0001) is 2.868
+能量最低的PDB文件 (6at0_opt_0001) 的CHI角偏差:
+Chi1偏差: 294.473, Chi2偏差: 1.427, Chi3偏差: 226.079, Chi4偏差: 48.223, Chi5偏差: 87.287

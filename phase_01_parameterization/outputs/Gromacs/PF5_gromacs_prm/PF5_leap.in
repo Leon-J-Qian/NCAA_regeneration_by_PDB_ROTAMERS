@@ -1,0 +1,6 @@
+source /home/rotations/.conda/envs/rdkit/dat/leap/cmd/leaprc.protein.ff19SB
+loadamberparams PF5.mod
+mol=loadmol2 RESP/PF5_1.mol2
+check mol
+saveamberparm mol PF5.prm PF5.crd
+quit

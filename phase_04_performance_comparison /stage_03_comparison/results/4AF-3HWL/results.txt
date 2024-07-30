@@ -1,0 +1,6 @@
+The PDB with the lowest energy is 3hwl_opt_0100 with an energy of -313.291
+RMSD平均值: 2.474
+RMSD标准差: 0.003
+The RMSD of the lowest energy PDB (3hwl_opt_0100) is 2.480
+能量最低的PDB文件 ({pdb_name}) 的CHI角偏差:
+Chi1偏差: 6.157, Chi2偏差: 99.071, Chi3偏差: 353.202
