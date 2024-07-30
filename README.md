@@ -156,7 +156,7 @@ points out which output has the lowest Energy_score, and gives the exact value o
 #### comparison
 in order to compare the performance between PDB ROTAMERS and Rotlib, we calculated the delta values between them in each case using the following functions:
 
-ΔEnergy_score = Energy_score~PDB_ROTAMERS~ - Energy_score~Rotlib~
+ΔEnergy_score = Energy_score<sub>PDB_ROTAMERS</sub> - Energy_score~Rotlib~
 ΔRMSD = RMSD~PDB_ROTAMERS~ - RMSD~Rotlib~
 ΔChi_deviation = 0.7×(Chi1_deviation~PDB_ROTAMERS~ - Chi1_deviation~Rotlib~) +       
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;0.3×(Chi2_deviation~PDB_ROTAMERS~ - Chi2_deviation~Rotlib~)
