@@ -36,7 +36,7 @@ Optional:
 Finally you will find your Rosetta parameter files, Rosetta temporary parameter files, and Gromacs parameter files in the current folder
 ## PDB ROTAMERS Generation
 ### Input
-To generate PDB ROTAMERS, two input files are required here£∫
+To generate PDB ROTAMERS, two input files are required here¬£¬∫
 - input.smiles 
 which is the same as the one used in the parameterization process
 - UAA_temps.params 
@@ -57,9 +57,9 @@ Optional:
 -d: User defined RMSD threshold, accept any floating-point number as its parameter
 -c: User defined conformation number cut_off value, accept any integer as its parameter
 
-When -d and -c are not manually defined, they will be automatically classified based on the input number of chi angles in NCAA, basically according to the following table£∫
+When -d and -c are not manually defined, they will be automatically classified based on the input number of chi angles in NCAA, basically according to the following table¬£¬∫
 
-||Chi=1|Chi=2|Chi=3|Chi=4|Chi°›5|
+||Chi=1|Chi=2|Chi=3|Chi=4|Chi¬°√ù5|
 |-|-|-|-|-|-|
 |RMSD threshold|0.8|0.6|0.4|0.2|0.1|
 |Cut_off|10|30|90|270|810|
@@ -156,10 +156,10 @@ points out which output has the lowest Energy_score, and gives the exact value o
 #### comparison
 in order to compare the performance between PDB ROTAMERS and Rotlib, we calculated the delta values between them in each case using the following functions:
 
-¶§Energy_score = Energy_score~PDB_ROTAMERS~ - Energy_score~Rotlib~
-¶§RMSD = RMSD~PDB_ROTAMERS~ - RMSD~Rotlib~
-¶§Chi_deviation = 0.7°¡(Chi1_deviation~PDB_ROTAMERS~ - Chi1_deviation~Rotlib~) +       
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;0.3°¡(Chi2_deviation~PDB_ROTAMERS~ - Chi2_deviation~Rotlib~)
+ŒîEnergy_score = Energy_score~PDB_ROTAMERS~ - Energy_score~Rotlib~
+ŒîRMSD = RMSD~PDB_ROTAMERS~ - RMSD~Rotlib~
+ŒîChi_deviation = 0.7√ó(Chi1_deviation~PDB_ROTAMERS~ - Chi1_deviation~Rotlib~) +       
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;0.3√ó(Chi2_deviation~PDB_ROTAMERS~ - Chi2_deviation~Rotlib~)
 
 The more negative the value is, the better the performance of PDB ROTARERS
 The more positive the value is, the better the performance of Rotlib
